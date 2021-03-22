@@ -118,6 +118,10 @@ p {
   h4 {
     line-height: 1;
   }
+  button,
+  input {
+    outline: none;
+  }
 }
 /*  global classes */
 
